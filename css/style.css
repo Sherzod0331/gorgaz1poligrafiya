@@ -1,0 +1,125 @@
+body {
+  overflow-x: hidden;
+}
+
+.navbar .nav-link {
+  font-size: 14px;
+  text-transform: uppercase;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+.navbar .nav-item.active {
+  border-left: #444 3px solid;
+}
+
+.carousel-item {
+  height: 450px;
+}
+
+.carousel-image-1 {
+  background: url('../img/1/3261.jpg');
+  background-size: cover;
+}
+
+.carousel-image-2 {
+  background: url('../img/1/693240-milky-way-wallpaper-1920x1080-for-iphone.jpg');
+  background-size: cover;
+}
+
+.carousel-image-3 {
+  background: url('../img/1/mlechnyy-put-kosmos-zvezdy-3734.jpg');
+  background-size: cover;
+}
+
+/*.carousel-image-1 {
+  background: url('../img/image1.jpg');
+  background-size: cover;
+}
+
+.carousel-image-2 {
+  background: url('../img/image2.jpg');
+  background-size: cover;
+}
+
+.carousel-image-3 {
+  background: url('../img/image3.jpg');
+  background-size: cover;
+}*/
+
+#home-icons {
+    
+}
+
+
+#bg-box {
+    background-image: url(../img/1/fonstola.ru_230153_1920x1080.jpg);
+    background-attachment: fixed;
+    min-height: 200px;
+    position: relative;
+}
+
+.dark-overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, .6);
+}
+
+#what-we-do {
+  position: relative;
+  min-height: 200px;
+  background-attachment: fixed;
+  background-image: url(../img/1/ruki_voda_ogon_fotoshop_116556_1920x1080.jpg);
+}
+
+#main-footer {
+  background-color: #000;
+  color: #fff;
+}
+
+.about-banner {
+  background-image: url(../img/1/693240-milky-way-wallpaper-1920x1080-for-iphone.jpg);
+  background-attachment: fixed;
+}
+
+.about-img {
+  margin-top: -80px;
+}
+
+#tugmacha {
+    text-align: center;
+}
+
+.tugma1 a {
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+    font-family: sans-serif;
+}
+
+.tugma1 {
+    background-color: chartreuse;
+    color: #fff;
+    font-size: 14px;
+    border: 1px solid #222;
+    padding: 5px 5px;
+    border-radius: 5px;
+}
+.tugma1:hover {
+    cursor: pointer;
+    background-color: white;
+}
+
+.matn {
+    background-color: aquamarine;
+    text-align: center;
+    color: #35424a;
+}
+
+
+
+
